@@ -1,0 +1,1 @@
+# Lightweight-sign-language-recognition-system-based-on-LSTM
